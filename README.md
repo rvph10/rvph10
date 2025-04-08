@@ -6,7 +6,12 @@
 
 I'm a developer based in Belgium, passionate about creating innovative solutions through code. I specialize in full-stack development with a focus on scalable, user-friendly applications.
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<div align="right">
+  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rvph10&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+  </p>
+</div>
 
 ### 🚀 About Me
 
@@ -15,6 +20,11 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
 - 💡 Always exploring new technologies and methodologies to enhance development workflows
 - 🌍 Based in Belgium, working globally
 - 📫 Reach me at: contact@upintown.dev
+
+### 🔥 Recent Projects
+
+- [Project Name](https://project-url.com) - Brief description of what this project accomplishes and what technologies it uses
+- [Project Name](https://project-url.com) - Brief description of what this project accomplishes and what technologies it uses
 
 <br>
 
@@ -44,8 +54,10 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <!-- Database & DevOps -->
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
@@ -75,10 +87,6 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvph10&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
-</div>
 
 <div align="center">
   
