@@ -39,6 +39,7 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
 
 <br />
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rgenu&unique={true|1|on|yes})
 ![rvph10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rvph10&theme=tokyo-night)
 
 ### 👀 Profile Views
