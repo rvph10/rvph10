@@ -6,11 +6,10 @@
 
 I'm a developer based in Belgium, passionate about creating innovative solutions through code. I specialize in full-stack development with a focus on scalable, user-friendly applications.
 
-<div align="right">
-  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rvph10&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
-  </p>
+<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding">
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=rvph10&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </div>
 
 ### 🚀 About Me
