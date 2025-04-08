@@ -1,81 +1,65 @@
-# 👋 Hello, I'm [Your Name]
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+rvph+👋;Full-stack+Developer;Founder+of+Up+In+Town&center=true&width=380&height=50">
 </div>
 
-<p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-YourWebsite-blue" alt="Website"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
-</p>
+## Founder & Developer at [Up In Town](https://upintown.dev)
 
-## 💫 About Me
+I'm a developer based in Belgium, passionate about creating innovative solutions through code.
 
-I'm a passionate developer with a love for creating elegant solutions to complex problems. Currently working on [current project/position], where I focus on [your focus area]. I enjoy exploring new technologies and leveraging them to build impactful applications.
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Areas of Expertise]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+### 🚀 About Me
+- 🔭 Currently building [Up In Town](https://upintown.dev), a development enterprise
+- 🔭 Starting to develop [nibblix](https://nibblix.com), an application that will help users manage their social media
+- 📫 Reach me at: contact@upintown.dev
 
-## 🛠️ Tech Stack
+### 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <!-- Add or remove technologies as needed -->
-</p>
+### 🎵 Currently Listening To
+[![Spotify](https://novatorem-rvph10.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
-## 📊 GitHub Stats
+### 🔥 Recent Projects
+- [Project Name](link) - Brief description
+- [Project Name](link) - Brief description
 
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rvph10&show_icons=true&theme=tokyonight" alt="rvph10's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvph10&theme=tokyonight" alt="rvph10's streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=rvph10&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="rvph10's trophies" />
 </div>
 
-## 🏆 GitHub Trophies
+<br />
+
+![rvph10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rvph10&theme=tokyo-night)
+
+### 👀 Profile Views
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7" />
+  <img src="https://komarev.com/ghpvc/?username=rvph10&color=blueviolet&style=flat-square">
 </p>
 
-## 🔝 Top Repositories
-
+### 🔗 Connect With Me
 <div align="center">
-  <a href="https://github.com/yourusername/repo-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark" />
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://github.com/yourusername/repo-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark" />
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
 </div>
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" />
-</p>
-
-## 🎯 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in [Repository Name](https://github.com/yourusername/repo-name)
-2. 💪 Opened PR in [Repository Name](https://github.com/yourusername/repo-name)
-3. 🗣 Commented on issue in [Repository Name](https://github.com/yourusername/repo-name)
-<!--END_SECTION:activity-->
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitors" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="stars" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-</p>
+⭐️ From [rvph](https://github.com/rvph10)
