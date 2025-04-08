@@ -57,6 +57,36 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
   </a>
 </div>
 
+
+
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=rvph10&show_icons=true&theme=tokyonight" alt="rvph10's GitHub stats" />
+    </td>
+    <td width="50%">
+      <h3 align="center">Streak Stats</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvph10&theme=tokyonight" alt="rvph10's streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">About Me</h3>
+      <ul>
+        <li>🔭 Currently building <a href="https://upintown.dev">Up In Town</a></li>
+        <li>🔭 Starting to develop <a href="https://nibblix.com">nibblix</a></li>
+        <li>📫 Reach me at: contact@upintown.dev</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">Currently Listening To</h3>
+      <img src="https://novatorem-rvph10.vercel.app/api/spotify" alt="Spotify Now Playing" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 <div align="center">
