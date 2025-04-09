@@ -20,11 +20,6 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
 - 🌍 Based in Belgium, working globally
 - 📫 Reach me at: contact@upintown.dev
 
-### 🔥 Recent Projects
-
-- [Project Name](https://project-url.com) - Brief description of what this project accomplishes and what technologies it uses
-- [Project Name](https://project-url.com) - Brief description of what this project accomplishes and what technologies it uses
-
 <br>
 
 ### 🎵 Currently Listening To
