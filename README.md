@@ -4,13 +4,15 @@
 
 ## Founder & Developer at [Up In Town](https://upintown.dev)
 
-I'm a developer based in Belgium, passionate about creating innovative solutions through code. I specialize in full-stack development with a focus on scalable, user-friendly applications. [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rvph) 
+I'm a developer based in Belgium, passionate about creating innovative solutions through code. I specialize in full-stack development with a focus on scalable, user-friendly applications. 
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding">
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=rvph10&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </div>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rvph) 
 
 ### 🚀 About Me
 
@@ -82,10 +84,14 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** — Cory House
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
 ⭐️ From [rvph](https://github.com/rvph10)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
