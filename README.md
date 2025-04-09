@@ -4,7 +4,7 @@
 
 ## Founder & Developer at [Up In Town](https://upintown.dev)
 
-I'm a developer based in Belgium, passionate about creating innovative solutions through code. I specialize in full-stack development with a focus on scalable, user-friendly applications.
+I'm a developer based in Belgium, passionate about creating innovative solutions through code. I specialize in full-stack development with a focus on scalable, user-friendly applications. [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rvph) 
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding">
 
