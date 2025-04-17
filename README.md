@@ -62,10 +62,6 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvph10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rvph10&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&no-bg=false" alt="GitHub Trophies" width="98%" />
-</div>
-
 <h3 align="center">🔗 Connect With Me</h3>
 <p align="center">
   <a href="https://discord.com/users/rvph10" target="_blank">
