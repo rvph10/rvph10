@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+rvph+👋;Full-stack+Developer;Founder+of+Up+In+Town&center=true&width=380&height=50">
 </div>
 
-## Founder & Developer at [Up In Town](https://upintown.dev)
+## Founder & Developer at [UpInTown](https://upintown.dev)
 
 I'm a developer based in Belgium, passionate about creating innovative solutions through code. I specialize in full-stack development with a focus on scalable, user-friendly applications. 
 
