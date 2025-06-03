@@ -17,7 +17,6 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
 ### 🚀 About Me
 
 - 🔭 Currently building [Up In Town](https://upintown.dev), a development enterprise focused on innovative web solutions
-- 🌱 Developing [nibblix](https://nibblix.com), a comprehensive social media management platform
 - 💡 Always exploring new technologies and methodologies to enhance development workflows
 - 🌍 Based in Belgium, working globally
 - 📫 Reach me at: contact@upintown.dev
