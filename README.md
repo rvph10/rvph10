@@ -25,7 +25,7 @@ I'm a developer based in Belgium, passionate about creating innovative solutions
 
 ### 🎵 Currently Listening To
 <div align="center">
-  <a href="https://rvph.pythonanywhere.com/link">
+  <a href="https://rvph.pythonanywhere.com/">
     <img src="https://rvph.pythonanywhere.com?theme=dark&eq_color=rainbow" alt="Spotify Now Playing" width="400" />
   </a>
 </div>
